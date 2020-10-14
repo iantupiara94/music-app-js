@@ -11,7 +11,7 @@
 	flex-direction: column;
 	justify-content: space-between;
 	align-items: center;
-	background: rgba(250, 177,64, 0.9);
+	background:#fff;
 }
 
 header h1 {
